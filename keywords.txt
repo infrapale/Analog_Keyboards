@@ -12,6 +12,7 @@ akbd	KEYWORD1
 akbd	KEYWORD2
 scan	KEYWORD2
 set_aval KEYWORD2
+st_nbr_keys KEYWORD2
 rd_analog	KEYWORD2
 read	KEYWORD2
 begin	KEYWORD2
